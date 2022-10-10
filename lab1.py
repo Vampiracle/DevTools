@@ -4,10 +4,6 @@ def kek():
 def calc(n1, op, n2):
     operations = ['+', '-', '*', '/']
       
-    
-
-
-
     if op in operations:
         
         if op == '+':
